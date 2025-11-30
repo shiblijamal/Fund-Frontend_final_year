@@ -1,0 +1,4 @@
+Original backend repository: https://github.com/jkv27100/Fund-Backend
+Fork used/adapted: https://github.com/shiblijamal/Fund-Backend_project_final_year
+Included in this repository and adapted by: Shibli Jamal
+Please respect original license and credits.
