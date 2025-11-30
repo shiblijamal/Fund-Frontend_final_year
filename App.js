@@ -1,3 +1,5 @@
+/** Refactored by Shibli Jamal */
+console.log("Frontend Refactored by Shibli Jamal");
 import { NavigationContainer } from "@react-navigation/native";
 import React, { useState } from "react";
 import { StyleSheet } from "react-native";
